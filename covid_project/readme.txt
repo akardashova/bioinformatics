@@ -1,7 +1,8 @@
-1. Сравнение коронавирусов SARS-CoV-2 и SARS-CoV по последовательностям, кодирующим Spike и NSP12-белки.
-2. Оценка среднего числа мутаций в белках Spike и NSP12 в последоватаельностях коронавирусов SARS-CoV-2 
-(российские образцы) относительно уханьского референса.
-3. Самая частая однонуклеотидная замена в Spike-белке
-4. Нахождение самых эволюционно близких и самых далеких вирусов (среди SARS-CoV-2, SARS-CoV, MERS-CoV, HCoV-OC43, HCoV-NL63,
-HCoV-HKU1, HCoV-229E), на основе качества выравнивания последовательностей их геномов.
-5. Создание хэш-таблицы для k-меров генома коронавируса SARS-CoV-2.
+1. Comparison of SARS-CoV-2 and SARS-CoV coronaviruses by amino acid sequences of NSP12 protein Spike proteins.
+2. Estimation of the average number of mutations in Spike and NCP12 proteins in SARS-CoV-2 coronavirus sequences
+(Russian samples) relative to the Wuhan reference.
+3. The most frequent single nucleotide substitution in a Spike protein.
+4. Finding the most evolutionarily close and most distant viruses (among SARS-CoV-2, SARS-CoV, MERS-CoV, HCoV-OC43, HCoV-NL63, 
+HCoV-HKU1, HCoV-229E), based on the score of alignment of their genome sequences.
+5. Creating a hash table for the k-mers of the SARS-CoV-2 genome. Searching for the minimum value of k, 
+at which exactly one position corresponds to each fragment.
