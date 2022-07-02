@@ -6,3 +6,5 @@
 HCoV-HKU1, HCoV-229E), based on the score of alignment of their genome sequences.
 5. Creating a hash table for the k-mers of the SARS-CoV-2 genome. Searching for the minimum value of k, 
 at which exactly one position corresponds to each fragment.
+6. t-SNE visualization of different types of coronaviruses (HCoV-HKU1, MERS-CoV, SARS-CoV-2, HCoV-229E, HCoV-NL63,
+HCoV-OC43, SARS-CoV).
